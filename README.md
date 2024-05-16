@@ -1,0 +1,1 @@
+Para execultar este projeto copie e cole os códigos do construtor tela e do Conectar na IDE, também é necessário colocar o conector JDBC, utilizando nesta versão a ultima a ser lançada  8.3.0, será necessário colocar o JAR externo dela também que ficara disponível 

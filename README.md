@@ -60,5 +60,6 @@ Cronometro/
 <ul>
   <li><strong>GitHub:</strong> <a href="https://github.com/eduardoreise">https://github.com/eduardoreise</a></li>
   <li><strong>Instagram:</strong> <a href="https://instagram.com/dev.eduh">@dev.eduh</a></li>
-  <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/eduardoreise">linkedin.com/in/eduardoreise</a></li>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/eduardodosreis18/">linkedin.com/in/eduardoreise</a></li>
+  <li><strong>Portifólio:</strong> <a href = "https://eduardoreise.github.io/portifolio/">eduardoreise.github.io/portifolio</a></li>
 </ul>
